@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1763063000911_0",
+      "id": "q_auto_1763063065100_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763063000911_1",
+      "id": "q_auto_1763063065100_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763063000911_2",
+      "id": "q_auto_1763063065100_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -287,6 +287,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-959",
     "netlifyUrl": "http://Giveaway-959.netlify.app",
     "netlifyId": "",
-    "tag": "Winter Romance Giveaway"
+    "tag": "Ski Date Giveaway"
   }
 };
