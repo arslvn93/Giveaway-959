@@ -187,7 +187,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1763066414018_0",
+      "id": "q_auto_1763066507518_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763066414018_1",
+      "id": "q_auto_1763066507518_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763066414019_2",
+      "id": "q_auto_1763066507518_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -262,7 +262,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In!",
-    "mainMessage": "Your entry for the <strong>Winter Romance Giveaway</strong> is in. We draw the winner on Dec 5, 2025 and email them. Good luck!",
+    "mainMessage": "Your entry for the <strong>Winter Romance Giveaway</strong> is confirmed!\n\nRemember: You must be following us on Instagram to be eligible to win. Make sure you're following before the draw date!\n\nWe draw the winner on Dec 5, 2025 and email them. Good luck!",
     "socialPromptText": "Watch your inbox on Dec 5. We will also post the winner on Instagram and Facebook: @timottawa"
   },
   "footerContact": {
