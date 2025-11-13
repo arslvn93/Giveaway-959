@@ -41,7 +41,7 @@ const config = {
         "alt": "Couple skiing at Calabogie Peaks on a sunny day"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/vz6sn6nm2srme0ct8vb85rfg7w.jpg",
+        "src": "https://media.restodata.ca/_restoimages/7/8180-photo875.jpg",
         "alt": "Chairlift view over snowy trees at Calabogie"
       },
       {
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1763062909619_0",
+      "id": "q_auto_1763063000911_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763062909620_1",
+      "id": "q_auto_1763063000911_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763062909620_2",
+      "id": "q_auto_1763063000911_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
