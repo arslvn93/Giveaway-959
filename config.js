@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win Ottawa Ski Date + Dinner - $270 Winter Romance",
+    "pageTitle": "Win Ottawa Ski Date + Dinner - $300 Winter Romance",
     "navBrandLogoText": "Tim Connolly",
     "privacyPolicyLink": "https://onereal.com/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>2 Calabogie Day Passes</span> + <span class='highlight'>$150 Dinner</span> in Stittsville!",
-    "heroSubheadline": "Plan the perfect winter date. Ski at Calabogie Peaks. Then enjoy a cozy Italian dinner at Napoli's Cafe. About $270 in value. Entry ends Dec 4. Winner announced Dec 5, 2025.",
+    "heroSubheadline": "Plan the perfect winter date. Ski at Calabogie Peaks. Then enjoy a cozy Italian dinner at Napoli's Cafe. About $300 in value. Entry ends Dec 4. Winner announced Dec 5, 2025.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/awbwy6007drme0ct8vbaym0chm.jpg",
     "promotionDates": "Enter Nov 7–Dec 4, 2025. Winner announced Dec 5, 2025.",
     "endDate": "2025-12-05T04:59:00.000Z",
@@ -76,7 +76,7 @@ const config = {
       }
     ],
     "name": "Winter Romance Ski + Dinner Package",
-    "value": "$270+ Value",
+    "value": "$300+ Value",
     "description": "Picture this: fresh snow, a blue sky, and you two riding the chairlift at Calabogie Peaks. Laps on the hill. Big smiles. After the slopes, head to Napoli's Cafe in Stittsville. Warm lights. Great pasta. A toast to a day well spent. This prize is made for active Ottawa couples who love winter fun and great food.",
     "limitedTimeOfferText": "Limited Winter Giveaway - Ends Dec 4!",
     "ctaButtonText": "I Want This Winter Date!"
@@ -187,7 +187,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1763066877131_0",
+      "id": "q_auto_1763131821313_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763066877131_1",
+      "id": "q_auto_1763131821313_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1763066877131_2",
+      "id": "q_auto_1763131821314_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
